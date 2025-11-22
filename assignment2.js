@@ -42,3 +42,5 @@ if (score >= 80) {
     grade = "F"
 }
 console.log("Name: " + students[i].name + ", Score: " + score + ", Grade: " + grade);}
+
+

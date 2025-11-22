@@ -49,3 +49,9 @@
 
  //let fruits = ["apple", "banana", "cherry", "mango" ];
  // //console.log(fruits[2])
+
+ let name = "alice";
+let age =  28;
+console.log(`my anem is ${alice}`)
+document.getElementsByClassName("cont").innerText = "welcome, muthafuckers";
+
